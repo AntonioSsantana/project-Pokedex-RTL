@@ -1,4 +1,4 @@
-# Projeto RTL (React Testing Library)
+# Projeto Pokédex RTL (React Testing Library)
 
 Este é um projeto no qual fui responsável pelo desenvolvimento dos testes em RTL (React Testing Library) na pasta `/tests`. O RTL é uma biblioteca de testes para React que permite realizar testes de componentes de forma simples e eficiente.
 
